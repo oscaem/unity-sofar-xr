@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.oscusw.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\oemp\\OneDrive\\Dokumente\\GitHub\\osc-usw\\osc-usw\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "osc-usw [Testing]"
+        }
+      }
+    }
+  ]
+}
