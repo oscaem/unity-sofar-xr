@@ -4,6 +4,10 @@
 
 Welcome to the readme file for SOFAR, a university project developed in Unity. SOFAR is a virtual reality (VR) space travel simulator that utilizes the OpenXR kit. In this simulator, you can explore space while interacting with your own furniture, thanks to approximation and procedurally generated environments. 
 
+Thanks to the team behind NEXT Reality Contest Germany, SOFAR has been nominated for the Young Talent Award 2020. Thank you!
+
+![XRC_Logo_Shiny_128](https://user-images.githubusercontent.com/48035650/236865674-c9771a56-278f-4d72-9426-b0f08840ff28.png)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -57,7 +61,11 @@ Please refer to the in-game tutorial or documentation for a comprehensive list o
 
 ## Known Issues
 
-- [List of known issues and bugs]
+- Performance Variability: Due to the complexity of the procedurally generated environments and the demanding nature of VR simulations, performance may vary across different hardware configurations. Some users may experience frame rate drops or stuttering during gameplay. Optimizations are being actively pursued to improve overall performance.
+
+- Furniture Approximation Limitations: The approximation technique used to integrate the user's own furniture into the VR environment may not perfectly align or represent the real-world furniture. Variations in scale, shape, or appearance may occur, leading to slight discrepancies between the virtual and physical representations. Efforts are underway to enhance the accuracy of furniture approximation.
+
+- Collision and Interaction Issues: Occasionally, there may be instances where collision detection or interaction mechanics do not function as intended. This could result in objects behaving unexpectedly or not responding correctly to user inputs. Developers are working to refine the collision and interaction systems to provide a more seamless and accurate experience.
 
 For a complete and up-to-date list of known issues, please refer to the project's issue tracker on GitHub.
 
@@ -65,18 +73,19 @@ For a complete and up-to-date list of known issues, please refer to the project'
 
 We would like to express our gratitude to the following individuals and organizations for their contributions and support during the development of SOFAR:
 
-- [List of acknowledgments]
+- Professor Jonas Hansen: Our guiding professor for media technology, whose expertise, guidance, and mentorship have been instrumental in shaping the direction of the project and ensuring its academic rigor.
+- 
+- Sarah Buser: Our advisor in XR (Extended Reality), whose knowledge and insights in the field of virtual reality and augmented reality have been immensely valuable. Her guidance and feedback have greatly contributed to the success of SOFAR.
+- 
+- BURG HALLE Media Lab Staff: The dedicated staff members at the BURG HALLE Media Lab have provided us with technical support, access to resources, and a collaborative environment that fostered innovation and creativity throughout the development process.
+- 
+- The Team from NEXT Reality Contest Germany: We extend our gratitude to the team behind the NEXT Reality Contest Germany for recognizing the potential and innovation of SOFAR. Being nominated for the contest's Young Talent category is a testament to the hard work and dedication of our team.
 
 ## Contact Information
 
 If you have any questions, feedback, or inquiries regarding SOFAR, please feel free to reach out to us:
 
-- Email: [your-email@example.com]
-- Website: [https://www.sofar-project.com]
-
-We value your input and look forward to hearing from you!
+- Email: [zusagen07_abhilfe@icloud.com]
+- Website: [[https://www.nextrealitycontest.de](https://nextrealitycontest.de/de/nominierte/nominierte-2020/)]
 
 ---
-
-Congratulations to the team behind SOFAR for their remarkable achievement of being nominated for the NEXT
-
