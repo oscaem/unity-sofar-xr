@@ -2,7 +2,7 @@
 
 ![sofar01](https://user-images.githubusercontent.com/48035650/236863044-22f15f5d-556a-4a9c-91b0-472663dd0904.jpg)
 
-Welcome to the readme file for SOFAR, a university project developed in Unity. SOFAR is a virtual reality (VR) space travel simulator that utilizes the OpenXR kit. In this simulator, you can explore space while interacting with your own furniture, thanks to approximation and procedurally generated environments. 
+Welcome to the readme file for SOFAR, a university project developed in Unity. SOFAR is a virtual reality (VR) space travel simulator that utilizes the OpenXR kit. In this simulator, you can explore space while interacting with your own furniture, thanks to approximation and procedurally generated environments. It was created trough the height of the COVID Pandemic. 
 
 Thanks to the team behind NEXT Reality Contest Germany, SOFAR has been nominated for the Young Talent Award 2020. Thank you!
 
