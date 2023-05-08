@@ -74,11 +74,11 @@ For a complete and up-to-date list of known issues, please refer to the project'
 We would like to express our gratitude to the following individuals and organizations for their contributions and support during the development of SOFAR:
 
 - Professor Jonas Hansen: Our guiding professor for media technology, whose expertise, guidance, and mentorship have been instrumental in shaping the direction of the project and ensuring its academic rigor.
-- 
+
 - Sarah Buser: Our advisor in XR (Extended Reality), whose knowledge and insights in the field of virtual reality and augmented reality have been immensely valuable. Her guidance and feedback have greatly contributed to the success of SOFAR.
-- 
+
 - BURG HALLE Media Lab Staff: The dedicated staff members at the BURG HALLE Media Lab have provided us with technical support, access to resources, and a collaborative environment that fostered innovation and creativity throughout the development process.
-- 
+
 - The Team from NEXT Reality Contest Germany: We extend our gratitude to the team behind the NEXT Reality Contest Germany for recognizing the potential and innovation of SOFAR. Being nominated for the contest's Young Talent category is a testament to the hard work and dedication of our team.
 
 ## Contact Information
