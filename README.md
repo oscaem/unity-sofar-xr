@@ -41,7 +41,7 @@ To install and run SOFAR on your system, follow these steps:
 
 1. Make sure you have a compatible VR device connected to your computer.
 2. Clone the SOFAR repository from [GitHub](https://github.com/your-username/sofar-repo) to your local machine.
-3. Open the project in Unity 3D version 20XX or later.
+3. Open the project in Unity 3D version 2019 LTS or later.
 4. Ensure that you have the necessary dependencies and plugins installed.
 5. Set up the necessary VR configurations in Unity.
 6. Build the project for your target platform (e.g., Oculus Rift, HTC Vive, Windows Mixed Reality).
