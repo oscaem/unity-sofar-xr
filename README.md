@@ -50,7 +50,8 @@ Note: Detailed installation instructions, platform-specific requirements, and tr
 
 The controls for SOFAR are optimized for VR devices and provide an intuitive and immersive experience. Here are the basic control inputs:
 
-- [List of control inputs]
+- Left Trigger (Grab): Press and hold the left trigger to grab and manipulate objects in the virtual environment. This allows you to interact with the various elements and furniture within the simulator, providing a sense of presence and control.
+- Right Trigger (Pointing): Pressing and releasing the right trigger will activate the pointing gesture. You can use this to select and interact with UI elements, navigate menus, or highlight objects of interest within the VR environment.
 
 Please refer to the in-game tutorial or documentation for a comprehensive list of controls and their corresponding actions.
 
