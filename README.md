@@ -1,10 +1,10 @@
-# SOFAR - VR Space Travel Simulator
+# FAR - VR Space Travel Simulator
 
 ![sofar01](https://user-images.githubusercontent.com/48035650/236863044-22f15f5d-556a-4a9c-91b0-472663dd0904.jpg)
 
-Welcome to the readme file for SOFAR, a university project developed in Unity. SOFAR is a virtual reality (VR) space travel simulator that utilizes the OpenXR kit. In this simulator, you can explore space while interacting with your own furniture, thanks to approximation and procedurally generated environments. It was created trough the height of the COVID Pandemic. 
+Welcome to the readme file for FAR, a university project developed in Unity. FAR is a virtual reality (VR) space travel simulator that utilizes the OpenXR kit. In this simulator, you can explore space while interacting with your own furniture, thanks to approximation and procedurally generated environments. It was created trough the height of the COVID Pandemic. 
 
-Thanks to the team behind NEXT Reality Contest Germany, SOFAR has been nominated for the Young Talent Award 2020. Thank you!
+Thanks to the team behind NEXT Reality Contest Germany, FAR has been nominated for the Young Talent Award 2020. Thank you!
 
 ![XRC_Logo_Shiny_128](https://user-images.githubusercontent.com/48035650/236865674-c9771a56-278f-4d72-9426-b0f08840ff28.png)
 
@@ -20,9 +20,9 @@ Thanks to the team behind NEXT Reality Contest Germany, SOFAR has been nominated
 
 ## Project Overview
 
-SOFAR (Space Odyssey For All Realms) is a university project developed over a period of 2 months. It aims to provide an immersive and realistic space travel experience in virtual reality. By using the OpenXR kit, SOFAR ensures compatibility across various VR platforms, allowing users to enjoy the simulation on their preferred devices.
+FAR (Space Odyssey For All Realms) is a university project developed over a period of 2 months. It aims to provide an immersive and realistic space travel experience in virtual reality. By using the OpenXR kit, SOFAR ensures compatibility across various VR platforms, allowing users to enjoy the simulation on their preferred devices.
 
-One of the unique aspects of SOFAR is the integration of the user's own furniture. By leveraging approximation techniques and procedurally generated environments, SOFAR creates an illusion of traveling through space while using the real-world furniture as reference points. This adds a personal touch and enhances the sense of immersion for the users.
+One of the unique aspects of FAR is the integration of the user's own furniture. By leveraging approximation techniques and procedurally generated environments, FAR creates an illusion of traveling through space while using the real-world furniture as reference points. This adds a personal touch and enhances the sense of immersion for the users.
 
 ## Features
 
